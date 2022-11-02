@@ -1,6 +1,8 @@
 # Starter Kits
 
 An Polygon Starter Kit Tutorial containing React, @web3-react, Alchemy.
+![image](https://user-images.githubusercontent.com/50445649/199592217-d1c38180-19ab-4291-a9a9-08e145ce6aa9.png)
+
 
 # 0. Environment Setup
 
